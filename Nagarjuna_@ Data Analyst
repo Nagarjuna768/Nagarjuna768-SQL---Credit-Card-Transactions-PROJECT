@@ -1,0 +1,29 @@
+
+Project Title: Credit Card Transactions Analysis
+
+Objective:
+
+Analyze credit card transaction data to understand customer behavior, detect fraud, and improve business strategies.
+Key Components:
+
+Data Extraction and Transformation:
+Extract and clean raw transaction data.
+Normalize data formats.
+Create calculated fields to enhance the dataset.
+Descriptive Analysis:
+Compute basic statistics (e.g., transaction count, average spending).
+Analyze transaction distribution by category and time period.
+Fraud Detection:
+Identify potentially fraudulent transactions using SQL queries.
+Detect patterns like unusually large transactions and rapid succession purchases.
+Customer Segmentation:
+Segment customers based on spending behavior and demographics.
+Develop customer profiles for targeted marketing.
+Tools and Technologies:
+
+SQL: For data extraction, manipulation, and complex query writing.
+Outcome:
+
+Uncovered key insights into customer spending patterns.
+Identified potential fraud risks.
+Provided data-driven recommendations for enhancing customer engagement and business strategies.
